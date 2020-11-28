@@ -57,5 +57,5 @@ user_groups:
 - Visitors
 ---
 
-Maximilian Primbs is a research master student in Behavioural Science at Radboud University. His research focusses on the effects of stereotypes on visual perception, emotion recognition, and meta-science. He´s part of the Psychological Science Accelerator where he coordinated the translation process of the Covid-19 projects. You can download his CV {{% staticref "files/cv.pdf" %}}here{{% /staticref %}}
+Maximilian Primbs is a research master student in Behavioural Science at Radboud University, the Netherlands. His research focusses on the effects of stereotypes on visual perception, emotion recognition, and meta-science. He´s part of the Psychological Science Accelerator where he coordinated the translation process of the Covid-19 projects. You can download his CV {{% staticref "files/cv.pdf" %}}here{{% /staticref %}}
 
