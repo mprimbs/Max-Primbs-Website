@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "The importance of data pre-processing"
-summary: "This project consists of a series of workshops I give together with Leonhard Volz at the Dutch National Open Science Festival. The aim of the workshops is to increase awareness for the massive effects data pre-processing can have on the outcomes of your statistical tests. We programmed a Shiny app that allows participants to explore the impact of various data transformation and outlier removal techniques. "
+summary: "This project consists of a series of workshops I´m give together with Leonhard Volz for the Dutch National Open Science Festival. The aim of the workshops is to increase awareness for the massive effects data pre-processing can have on the outcomes of your statistical tests. We programmed a Shiny app that allows participants to explore the impact of various data transformation and outlier removal techniques. "
 authors: [Primbs, Volz]
 tags: [Meta-Science, Workshop, Shiny App]
 categories: []
