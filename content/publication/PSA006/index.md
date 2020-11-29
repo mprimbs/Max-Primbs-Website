@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Exploring the influence of personal force and intention in moral dilemma judgements"
-authors: [Bago, B., Aczel, B., Kekcs, Z., Protzko, J., Kovacs, M., ... Primbs, M. A., ... & Chartier, C.]
+authors: [Bago, Aczel, Kekcs, Protzko, Kovacs, Many Others, Primbs, Chartier]
 date: 2020-10-16
 doi: ""
 

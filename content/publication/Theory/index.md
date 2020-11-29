@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "A decade of theory as reflected in Psychological Science"
-authors: [McPhetres, J., Albayrak-Aydemir, N.*, Barbosa Mendes, A.*, Chow, E. C.*, Gonzalez-Marquez, P.*, ... Primbs,
-M. A.*, ... & Volodko, K.*]
+authors: [McPhetres, Albayrak-Aydemir, Barbosa Mendes, Chow, Gonzalez-Marquez, Some Others, Primbs, Volodko]
 date: 2020-06-12
 doi: ""
 
@@ -23,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Pre-print"
+summary: "Preprint. Author 2-13 ordered alphabetically."
 
 tags: [Meta-Science]
 categories: []

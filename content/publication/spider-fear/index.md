@@ -1,28 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Registered Replication Report: Study 3 from Trafimow & Hughes (2012)"
-authors: [Rife, Lambert, TMT Consortium]
-date: 2019-11-11
+title: "The efficacy of approach-training in the treatment of spider fear"
+authors: [Primbs, Bijlstra, Rinck]
+date: 2020-10-03
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 
+publishDate: 2020-11-29T12:31:34+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Advances in Methods and Practices in Psychological Science"
+publication: ""
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Stage 1 Registered Report"
+summary: "Preprint of Stage 1 Registered Report"
 
 tags: [Registered Report]
 categories: []
@@ -36,11 +36,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://osf.io/s9mhu/
+url_pdf: https://osf.io/mgbrd/?view_only=80181180efcc4678a1218243d833d5f4
 url_code:
 url_dataset:
 url_poster:
-url_project: https://osf.io/atc39/
+url_project:
 url_slides:
 url_source:
 url_video:

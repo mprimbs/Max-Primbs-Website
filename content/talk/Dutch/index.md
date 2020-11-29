@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-11-28T13:14:31+01:00
 
-authors: [Maximilian Primbs, Leonhard Volz]
+authors: [Primbs, Volz]
 tags: []
 
 # Is this a featured talk? (true/false)

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "The effect of face masks on facial emotion recognition"
-authors: [Rinck, M., Primbs, M. A., Verpaalen & Bijlstra, G.]
+authors: [Rinck, Primbs,  Verpaalen, Bijlstra]
 date: 2020-09-30
 doi: ""
 
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Pre-print"
+summary: "Preprint"
 
 tags: [Emotion Recognition]
 categories: []

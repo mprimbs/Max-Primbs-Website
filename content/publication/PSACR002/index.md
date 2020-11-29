@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "A global test of brief re-appraisal interventions on emotions during the COVID-19 pandemic"
-authors: [Wang, K., Goldenberg, A., Dorison, C. A., Miller, J. K., Uusberg, A., ... & Psychological Science Accelerator]
+authors: [Wang, Goldenberg, Dorison, Miller, Uusberg, A., Psychological Science Accelerator]
 date: 2020-04-17
 doi: ""
 

@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-11-28T12:26:28+01:00
 
-authors: [Maximilian Primbs, Rob Holland, Julian Quandt, Gijs Bijlstra]
+authors: [Primbs, Holland, Quandt, Bijlstra]
 tags: []
 
 # Is this a featured talk? (true/false)
