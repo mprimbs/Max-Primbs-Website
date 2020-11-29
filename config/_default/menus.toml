@@ -9,12 +9,12 @@
   weight = 10
 
 [[main]]
-  name = "On-going Projects Selection"
+  name = "On-going Projects"
   url = "#projects"
   weight = 20
 
 [[main]]
-  name = "Upcoming and Recent Talks"
+  name = "Talks"
   url = "#talks"
   weight = 30
 
