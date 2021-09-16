@@ -6,7 +6,7 @@ title: Maximilian Primbs
 superuser: true
 
 # Role/position
-role: Research Master Student Behavioural Science
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -17,17 +17,22 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Stereotypes & Prejudice
-- Social Cognition & Emotion Recognition
-- Meta-Science
+- Implicit Bias
+- Stereotypes & Visual Perception
+- Diversity & Inclusion
+- Open Science
+
 
 education:
   courses:
-  - course: M.Sc. in Behavioural Science (research)
-    institution: Radboud University
-    year: 2019-current
-  - course: B.Sc. in Psychology (cum laude, Honours)
-    institution: Radboud University
+  -course: PhD Student
+    institution: Radboud University, the Netherlands
+    year: 2021-present
+  - course: M.Sc. in Behavioural Science, cum laude
+    institution: Radboud University, the Netherlands
+    year: 2019-2021
+  - course: B.Sc. in Psychology, cum laude
+    institution: Radboud University, the Netherlands
     year: 2016-2019
 
 # Social/Academic Networking
@@ -57,5 +62,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Maximilian Primbs and I´m a research master student in Behavioural Science at Radboud University, the Netherlands. My research focusses on the effects of stereotypes on visual perception and emotion recognition. Moreover, I´m doing research in the field of meta-science and statistics, particularly on data pre-processing and the proper analyses of reaction time data. I´m the Assistant Director for Translation and Cultural Diversity at the Psychological Science Accelerator, where I led the translation of the Covid-19 projects to over 40 languages. For a complete overview of all projects, publications, talks and research experience please {{% staticref "files/cv.pdf" %}}download my CV{{% /staticref %}}. I´m looking for PhD positions in Europe starting around September 2021, please contact me if you can imagine us working together.
-
+My name is Maximilian Primbs and I´m a first-year PhD student at Radboud University, the Netherlands. Together with Gijs Bijlstra, Rob Holland, Ruddy Faure, and Tessa Lansu I work on situational models of implicit bias - that is the idea that implicit bias resides in situations and not in people. This distinction matters because it determines where and how you need to intervene to successfully reduce discrimination. My other research focusses on the role of stereotypes in visual perception, how they determine how we see emotions and perceive faces. I´m also an avid Open Science enthusiast and engage in research in the field of meta-science and statistics, focussing on data pre-processing and multiverse analysis of reaction time data. Finally, I´m the Assistant Director for Translation and Cultural Diversity at the Psychological Science Accelerator, where I led the translation of the Covid-19 projects to over 40 languages. For a complete overview of all projects, publications, talks and research experience please {{% staticref "files/cv.pdf" %}}download my CV{{% /staticref %}}. I´m always happy to collaborate with researchers from all over the globe, so if you think we have shared interests, contact me!
