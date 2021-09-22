@@ -23,6 +23,7 @@ interests:
 - Open Science
 
 
+
 education:
   courses:
   - course: M.Sc. in Behavioural Science, cum laude
