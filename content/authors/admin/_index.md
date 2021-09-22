@@ -25,9 +25,6 @@ interests:
 
 education:
   courses:
-  -course: PhD Student
-    institution: Radboud University, the Netherlands
-    year: 2021-present
   - course: M.Sc. in Behavioural Science, cum laude
     institution: Radboud University, the Netherlands
     year: 2019-2021
