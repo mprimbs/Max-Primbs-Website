@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Threat modulates the in-group bias in face detection"
-summary: "In this project, we investigated the role of threat in the initial detection of faces. Across four studies we showed that priming participants with stereotype-congruent primes facilitates the detection of out-groups stereotypically associated with threat, but not of other out-groups."
+title: "Stereotypes & Face Perception"
+summary: "In this research line I investigate factors influencing the visual perception of faces, which a focus on stereotypes."
 
 
 
-authors: [Bijlstra, Primbs, Mosannenzadeh, Holland]
+authors: []
 tags: []
 categories: []
-date: 2019-12-31
+date: 2022-02-19
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -42,4 +42,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-On-going project in the write-up phase in which we investigated the role of threat in the initial detection of faces. Caucasian participants were presented with Dutch, Moroccan, and Asian faces using the breaking continuous flash suppression paradigm. Across four studies, we showed that participants show an in-group bias in face detection (replication of prior work; Study 1) and that this in-group bias can be modulated by activating stereotypical associations between Moroccans and danger (Study 2). Moreover, we showed that merely activating the concept of Morocco already facilitates the detection of Moroccan faces (Study 3), whereas activating the concept Asia does not lead to enhanced detection of Asian faces (Study 4). We conclude that stereotypical-associations between Moroccans and danger drive the enhanced detection of Moroccan faces in Study 2 and 3. The present study is the first to show that stereotypes influence the initial detection of faces. This project served as my Honours thesis (Study 1-3) for which I was awarded the grade 9.5 (Dutch System).
+
+Human face perception is complex and multifaceted. The speed and accuracy with which we detect, recognize and process faces is influenced by many factors, including lower-level visual factors (such as size or brightness) and higher-level cognitive factors (such as self-relevance or familiarity). My work hereby mostly focusses on the effects of stereotypes. For example, in one series of projects we first investigated how face masks influence emotion recognition (Rinck, Primbs, Verpaalen, & Bijlstra, under review) and later followed up with work on how face masks influence the stereotype effect in emotion recognition (Primbs, Rinck, Holland, Knol, Wies, & Bijlstra, in prep.) In another project we investigated how the role of threat in the initial detection of faces (Bijlstra, Primbs, Mosannenzadeh, & Holland, in prep.). Across four studies we showed that priming threat facilitates the detection of ethnic out-group faces stereotypically associated with threat, but not of other out-group faces. This research line was the first to show that stereotypes can affect the initial detection of faces.
+
+

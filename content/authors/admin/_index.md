@@ -17,7 +17,7 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Implicit Bias
+- Prejudice Reduction
 - Stereotypes & Visual Perception
 - Diversity & Inclusion
 - Open Science
@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Student in Behavioural Science, 
+  - course: PhD Student in Behavioural Science
     institution: Radboud University, the Netherlands
     year: 2021-2026
   - course: M.Sc. in Behavioural Science, cum laude
@@ -64,6 +64,6 @@ user_groups:
 ---
 
 My name is Maximilian Primbs and I´m a first-year PhD student at Radboud University, the Netherlands.
-In my PhD project I`m investigating how we can best reduce prejudice. My approach is hereby rooted in situational models of bias (e.g., Bias of Crowds model) - only by understanding and changing the social, cultural, and physical situations bias unfolds in can we facilitate long term reductions in prejudice. In other research lines, I focus on (a) how stereotypes and prejudice affect our visual perception and (b) how we can improve psychological science. 
+In my PhD project I`m investigating how we can best reduce prejudice. My approach is hereby rooted in situational models of bias (e.g., the Bias of Crowds model) - only by understanding and changing the social, cultural, and physical situations bias unfolds in can we facilitate long term reductions in prejudice. In other research lines, I focus on (a) how stereotypes and prejudice affect our visual perception of faces and (b) how we can improve psychological science. 
 
-I´m the Assistant Director for Translation and Cultural Diversity at the Psychological Science Accelerator, where I led the translation of the Covid-19 projects to over 40 languages. For a complete overview of all projects, publications, talks and research experience please {{% staticref "files/cv.pdf" %}}download my CV{{% /staticref %}}. I´m always happy to collaborate with researchers from all over the globe, so if you think we have shared interests, contact me!
+Additionally, I currently serve as the Assistant Director for Translation and Cultural Diversity at the Psychological Science Accelerator, where I led the translation of the Covid-19 projects to over 40 languages. For a complete overview of all projects, publications, talks and research experience please {{% staticref "files/cv.pdf" %}}download my CV{{% /staticref %}}. I´m always happy to collaborate with researchers from all over the globe, so if you think we have shared interests, contact me!
