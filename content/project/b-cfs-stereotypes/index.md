@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Stereotypes & Face Perception"
-summary: "In this research line I investigate factors influencing the visual perception of faces, which a focus on stereotypes."
+summary: "In this research line I investigate factors influencing the visual perception of faces, with a focus on stereotypes and emotions."
 
 
 
