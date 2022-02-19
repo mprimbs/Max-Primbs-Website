@@ -5,9 +5,9 @@ title: "Improving psychological science"
 summary: "This research line summarizes my work on improving psychological science - by means of meta-science, commentaries, workshops, and presentations. My main focus here is data pre-processing and multiverse analysis, but I also work on psychological theories, effect sizes, and scientific translation."
 
 
-authors: [.]
-tags: [.]
-categories: [.]
+authors: []
+tags: []
+categories: []
 date: 2022-02-19
 
 # Optional external URL for project (replaces project detail page).

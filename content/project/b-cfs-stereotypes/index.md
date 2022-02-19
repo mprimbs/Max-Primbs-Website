@@ -6,9 +6,9 @@ summary: "In this research line I investigate factors influencing the visual per
 
 
 
-authors: [.]
-tags: [.]
-categories: [.]
+authors: []
+tags: []
+categories: []
 date: 2022-02-19
 
 # Optional external URL for project (replaces project detail page).
