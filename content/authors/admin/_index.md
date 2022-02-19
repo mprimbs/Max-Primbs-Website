@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Student in Behavioural Science
+  - course: PhD Student in Social Psychology
     institution: Radboud University, the Netherlands
     year: 2021-2026
   - course: M.Sc. in Behavioural Science, cum laude
