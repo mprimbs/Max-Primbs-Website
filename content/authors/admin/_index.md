@@ -63,7 +63,8 @@ user_groups:
 - Visitors
 ---
 
-My name is Maximilian Primbs and I´m a first-year PhD student at Radboud University, the Netherlands.
-In my PhD project I`m investigating how we can best reduce prejudice. My approach is hereby rooted in situational models of bias (e.g., the Bias of Crowds model) - only by understanding and changing the social, cultural, and physical situations bias unfolds in can we facilitate long term reductions in prejudice. In other research lines, I focus on (a) how stereotypes and prejudice affect our visual perception of faces and (b) how we can improve psychological science. 
+My name is Maximilian Primbs and I´m a second-year PhD student at Radboud University, the Netherlands.
+
+In my PhD project I'm investigating how changes in our physical, social, and cultural environment shape our implicit and explicit biases. My approach is hereby rooted in situational models of bias (e.g., the Bias of Crowds model) - only by understanding and changing the social, cultural, and physical situations bias unfolds in can we facilitate long term reductions in prejudice. In other research lines, I focus on (a) how stereotypes and prejudice affect our visual perception of faces and (b) how we can improve psychological science. 
 
 Additionally, I currently serve as the Assistant Director for Translation and Cultural Diversity at the Psychological Science Accelerator, where I led the translation of the Covid-19 projects to over 40 languages. For a complete overview of all projects, publications, talks and research experience please {{% staticref "files/cv.pdf" %}}download my CV{{% /staticref %}}. I´m always happy to collaborate with researchers from all over the globe, so if you think we have shared interests, contact me!
