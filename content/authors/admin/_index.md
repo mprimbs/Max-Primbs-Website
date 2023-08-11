@@ -17,9 +17,10 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Implicit Bias
 - Prejudice Reduction
 - Stereotypes & Visual Perception
-- Diversity & Inclusion
+- Statistics & Meta-Science
 - Open Science
 
 
