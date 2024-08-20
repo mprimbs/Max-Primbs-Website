@@ -64,8 +64,14 @@ user_groups:
 - Visitors
 ---
 
-My name is Maximilian Primbs and I´m a second-year PhD student at Radboud University, the Netherlands.
+My name is Maximilian Primbs and I'm a fourth-year PhD candidate at the Behavioural Science Institute of Radboud University, Nijmegen, the Netherlands. 
 
-In my PhD project I'm investigating how changes in our physical, social, and cultural environment shape our implicit and explicit biases. My approach is hereby rooted in situational models of bias (e.g., the Bias of Crowds model) - only by understanding and changing the social, cultural, and physical situations bias unfolds in can we facilitate long term reductions in prejudice. In other research lines, I focus on (a) how stereotypes and prejudice affect our visual perception of faces and (b) how we can improve psychological science. 
+I'm interested in how our social and cultural environments shapes our attitudes and beliefs. How do anti-racism
+protests influence how we think about Black people? Do cultural holidays affect how we think about our peers?
+Does our historical or built environment have a lasting impact on people's beliefs today? I explore these questions
+using large-scale datasets, causal inference methods, multiverse analyses, experiments, and computational mod-
+elling. My work provides a novel perspective on the role of the environment in attitude formation and expression.
+
+In other research lines, I focus on (a) how stereotypes and prejudice affect our visual perception of faces and (b) how we can improve psychological science. 
 
 Additionally, I currently serve as the Assistant Director for Translation and Cultural Diversity at the Psychological Science Accelerator, where I led the translation of the Covid-19 projects to over 40 languages. For a complete overview of all projects, publications, talks and research experience please {{% staticref "files/cv.pdf" %}}download my CV{{% /staticref %}}. I´m always happy to collaborate with researchers from all over the globe, so if you think we have shared interests, contact me!
